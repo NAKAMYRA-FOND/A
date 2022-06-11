@@ -1,2 +1,3 @@
-# A
+A:
 WIN7OR10 ???
+GOTO :A
